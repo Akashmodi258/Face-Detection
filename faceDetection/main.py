@@ -13,3 +13,4 @@ while True:
     cv2.putText(img,f'fps : {int(fps)}',(20,70),cv2.FONT_HERSHEY_PLAIN,3,(0,255,0),2)
     cv2.imshow("image",img)
     cv2.waitKey(1)
+    # hi
