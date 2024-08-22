@@ -1,7 +1,6 @@
 import time
 import cv2 
 import mediapipe as mp
-print("heloowporld")
 cap=cv2.VideoCapture(0)
 ptime=0
 while True:
